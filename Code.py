@@ -96,7 +96,7 @@ for i in d:
 
 # follow of start symbol is $
 follow["S"]={"$"}
-vis1={}s
+vis1={}
 
 # find follow
 def find_follow(k):
