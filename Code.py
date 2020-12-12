@@ -19,7 +19,7 @@ symbol=set()
 prod={}
 prod1={}
 
-print("Enter the number of production rules : ")
+print("Enter the size of the productions : ")
 n=int(input())
 
 print("Enter productions : ")
